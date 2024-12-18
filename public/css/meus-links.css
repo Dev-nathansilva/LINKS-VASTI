@@ -70,10 +70,10 @@ body #preloader {
 main#content {
   background-color: #e2ded9;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   /* gap: 10px; */
-  padding: 0px 0;
+  padding: 30px 0px;
   overflow: auto;
 }
 
